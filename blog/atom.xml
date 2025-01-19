@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nyu-robot-learning.github.io/decision-making-sp25/blog</id>
+    <title>Deep Decision Making and Reinforcement Learning Blog</title>
+    <updated>2021-01-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nyu-robot-learning.github.io/decision-making-sp25/blog"/>
+    <subtitle>Deep Decision Making and Reinforcement Learning Blog</subtitle>
+    <icon>https://nyu-robot-learning.github.io/decision-making-sp25/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Homework 0]]></title>
+        <id>first-assignment</id>
+        <link href="https://nyu-robot-learning.github.io/decision-making-sp25/blog/first-assignment"/>
+        <updated>2021-01-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is homework 0 make a copy to write your own answers.]]></summary>
+        <content type="html"><![CDATA[<p>This is <a href="https://colab.research.google.com/drive/1j6hXjwRNqkDUQmY12LpYbs8OrDS9QSXt">homework 0</a> make a copy to write your own answers.</p>]]></content>
+    </entry>
+</feed>

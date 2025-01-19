@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Deep Decision Making and Reinforcement Learning Blog</title>
+        <link>https://nyu-robot-learning.github.io/decision-making-sp25/blog</link>
+        <description>Deep Decision Making and Reinforcement Learning Blog</description>
+        <lastBuildDate>Wed, 06 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Homework 0]]></title>
+            <link>https://nyu-robot-learning.github.io/decision-making-sp25/blog/first-assignment</link>
+            <guid>first-assignment</guid>
+            <pubDate>Wed, 06 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is homework 0 make a copy to write your own answers.]]></description>
+            <content:encoded><![CDATA[<p>This is <a href="https://colab.research.google.com/drive/1j6hXjwRNqkDUQmY12LpYbs8OrDS9QSXt">homework 0</a> make a copy to write your own answers.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

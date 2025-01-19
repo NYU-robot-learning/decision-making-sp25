@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel_fl24=self.webpackChunkrobot_intel_fl24||[]).push([[795],{5795:function(e){e.exports=JSON.parse('{"permalink":"/decision-making-sp25/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

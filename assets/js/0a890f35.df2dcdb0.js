@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel_fl24=self.webpackChunkrobot_intel_fl24||[]).push([[560],{4023:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var l=n(7294),u=n(4814);function r(){return l.createElement(u.Z,null,l.createElement("h1",null,"Syllabus"),l.createElement("p",null,"Put the contents of the course here."))}}}]);

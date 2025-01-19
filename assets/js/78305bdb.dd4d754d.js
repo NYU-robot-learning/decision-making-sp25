@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrobot_intel_fl24=self.webpackChunkrobot_intel_fl24||[]).push([[324],{3451:function(e){e.exports=JSON.parse('{"allTagsPath":"/decision-making-sp25/blog/tags","slug":"/decision-making-sp25/blog/tags/review","name":"review","count":1,"permalink":"/decision-making-sp25/blog/tags/review"}')}}]);
