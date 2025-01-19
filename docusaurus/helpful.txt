@@ -1,0 +1,38 @@
+27 vulnerabilities (9 moderate, 18 high)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+
+Successfully created "robot-intel".
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles your website into static files for production.
+
+  npm run serve
+    Serves the built website locally.
+
+  npm deploy
+    Publishes the website to GitHub pages.
+
+We recommend that you begin by typing:
+
+  cd robot-intel
+  npm start
+
+Happy building awesome websites!
+
+npm notice 
+npm notice New patch version of npm available! 8.1.0 -> 8.1.3
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.1.3
+npm notice Run npm install -g npm@8.1.3 to update!
+npm notice 
