@@ -28,7 +28,7 @@ Please contact Rosemary Amico (amico@cs.nyu.edu).
 * Please add the [Class calendar link TBD](https://google.com) to your calendar to keep track of class events (lecture, office hours, recitation, etc.).
 
 ### Grading and Assignments
-* Assignments (40%) + Final Project (50%) + Class Participation (10%)
+* Assignments (30%) + Final Project (60%) + Class Participation (10%)
 * There will be four assignments through the semester.
 * Three late days are provided for late submission. No submissions will be accepted after the late days are used by the student.
 * Assignments will use Python 3 and PyTorch; we will provide you a conda environment to install all dependencies.
