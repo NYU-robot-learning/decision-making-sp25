@@ -42,3 +42,19 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   object-fit: fill;
   padding-bottom: 1rem;
 }
+
+.nopad {
+  padding: 0;
+}
+
+.nomargin {
+  margin: 0;
+}
+
+.nomaxwidth {
+  max-width: none;
+}
+
+/* .hero {
+  padding-top: 0px !important;
+} */

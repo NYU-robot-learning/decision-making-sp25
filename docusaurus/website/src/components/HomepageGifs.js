@@ -13,7 +13,7 @@ const GifList = [
 function HomepageImage({img_filename}) {
   return (
     <div className={clsx('col')}>     
-      <div className="text--center padding-horiz--md car-gif">
+      <div className="text--center car-gif">
         <img src={img_filename} />
       </div>
     </div>
@@ -23,7 +23,7 @@ function HomepageImage({img_filename}) {
 export default function HomepageImages() {
   return (
     <section className={styles.home_images}>
-      <div className="container">
+      <div className="container nopad nomargin nomaxwidth">
         <div className="row">
           {GifList.map((props, idx) => (
             <HomepageImage key={idx} {...props} />
