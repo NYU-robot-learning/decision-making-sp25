@@ -7,16 +7,16 @@ There will be four homework assignments posted to the [class Campuswire (link TB
 
 ## Assignments
 
-The assignments will be released on [Campuswire](https://campuswire.com/c/GEAA805EF/feed/).
+The assignments will be released on [Campuswire TBD](google.com).
 
 | Assignment | Release Date | Due Date | Link |
 | --- | --- | --- | --- |
-| Assignment 0: Pre-requisites | January 31 | - | [Link](https://drive.google.com/drive/folders/1WkoicTCo4QiHH_Io_0JQ7XzDSMnBijNq?usp=sharing) |
-| Assignment 1: NN, BC, multimodal BC | February 9 | February 23 | [Link](https://docs.google.com/document/d/1Srunf6SmYFW_znR1DBV0yVKnZkeDDAzEdgY0C6lF6II/edit?usp=sharing)|
-| Assignment 2: Dagger, reward-weighted regression | Februrary 23 | March 8 | [Link](https://docs.google.com/document/d/1uxVb8NN2WIIFTMh8PQtpEgF0d76Ljk4rj-PtT6NN03w/edit?usp=sharing)|
-| Assignment 3: Off-Policy Reinforcement Learning | March 8 | March 29 | [Link](https://docs.google.com/document/d/1Kll1cyCvE3pQ5pEhxswNYb9TuJUmt0DOK7jnhpAx5VY/edit?usp=sharing)|
-| Assignment 4: PPO | March 29 | April 12 | |
-
+| Assignment 0: Pre-requisites | January 31 | - | TBD |
+| Assignment 1: NN, BC, multimodal BC | February 9 | February 23 | TBD |
+| Assignment 2: Dagger, reward-weighted regression | Februrary 23 | March 8 | TBD |
+| Assignment 3: Off-Policy Reinforcement Learning | March 8 | March 29 | TBD | 
+| Assignment 4: PPO | March 29 | April 12 | TBD |
+<!-- [TBD](google.com) -->
 
 <!-- ## Assignment Environment and Installation Instructions
 Assignment 0 is posted [here](https://campuswire.com/c/G7204E992/feed/2) which will use Google colab for the coding portion. Future assigment environments will be released soon. -->

@@ -6,6 +6,7 @@ import styles from './HomepageFeatures.module.css';
 
 const GifList = [
   {
+    img_filename: './img/rl.gif',
   }
 ];
 
