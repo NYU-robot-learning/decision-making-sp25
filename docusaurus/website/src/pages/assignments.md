@@ -7,7 +7,7 @@ There will be four homework assignments posted to the [class Campuswire (link TB
 
 ## Assignments
 
-The assignments will be released on [Campuswire TBD](google.com).
+The assignments will be released on Campuswire TBD.
 
 | Assignment | Release Date | Due Date | Link |
 | --- | --- | --- | --- |
