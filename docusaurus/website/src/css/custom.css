@@ -44,15 +44,15 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .nopad {
-  padding: 0;
+  padding: 0 !important;
 }
 
 .nomargin {
-  margin: 0;
+  margin: 0 !important;
 }
 
 .nomaxwidth {
-  max-width: none;
+  max-width: none !important;
 }
 
 /* .hero {
