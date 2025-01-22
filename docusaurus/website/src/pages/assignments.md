@@ -11,11 +11,11 @@ The assignments will be released on Campuswire TBD.
 
 | Assignment | Release Date | Due Date | Link |
 | --- | --- | --- | --- |
-| Assignment 0: Pre-requisites | January 31 | - | TBD |
-| Assignment 1: NN, BC, multimodal BC | February 9 | February 23 | TBD |
-| Assignment 2: Dagger, reward-weighted regression | Februrary 23 | March 8 | TBD |
-| Assignment 3: Off-Policy Reinforcement Learning | March 8 | March 29 | TBD | 
-| Assignment 4: PPO | March 29 | April 12 | TBD |
+| Assignment 0: Pre-requisites | January 24 | February 7 | TBD |
+| Assignment 1: NN, BC, multimodal BC | February 7 | February 21 | TBD |
+| Assignment 2: Dagger, reward-weighted regression | Februrary 21 | March 7 | TBD |
+| Assignment 3: Off-Policy Reinforcement Learning | March 7 | March 21 | TBD | 
+| Assignment 4: PPO | March 21 | April 4 | TBD |
 <!-- [TBD](google.com) -->
 
 <!-- ## Assignment Environment and Installation Instructions

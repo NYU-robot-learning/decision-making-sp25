@@ -28,7 +28,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .course-description {
-  padding: 4rem;
+  padding: 0 4rem;
 }
 
 .profile-photos img {
@@ -55,6 +55,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   max-width: none !important;
 }
 
-/* .hero {
+.hero {
   padding-top: 0px !important;
-} */
+}
