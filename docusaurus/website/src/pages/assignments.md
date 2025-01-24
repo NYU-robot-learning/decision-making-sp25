@@ -1,13 +1,13 @@
 ---
 title: Assignments
 ---
-There will be four homework assignments posted to the [class Campuswire (link TBD)](assignments). They must be submitted online (platform TBD) and there will be no extensions. All the answers must be typeset using either LaTeX or Microsoft Word and submitted as a pdf file. Handwritten answers will not be accepted. Each homework will include one or more programming assignments. Assignment 0 is solely to check pre-requisites. No grade will be assigned to this.
+There will be four homework assignments posted to the [class Campuswire](https://campuswire.com/p/GA305686D). They must be submitted online (platform TBD) and there will be no extensions. All the answers must be typeset using either LaTeX or Microsoft Word and submitted as a pdf file. Handwritten answers will not be accepted. Each homework will include one or more programming assignments. Assignment 0 is solely to check pre-requisites. No grade will be assigned to this.
 
 ---
 
 ## Assignments
 
-The assignments will be released on Campuswire TBD.
+The assignments will be released on Campuswire.
 
 | Assignment | Release Date | Due Date | Link |
 | --- | --- | --- | --- |
