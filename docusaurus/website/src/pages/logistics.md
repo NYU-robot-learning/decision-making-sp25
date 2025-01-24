@@ -25,7 +25,7 @@ Please contact Rosemary Amico (amico@cs.nyu.edu).
 * 4:55pm-6:55pm on Fridays.
 * Lectures wil be held in person.
 * The class will be recorded, we will post the link to the recorded lectures to the class Campuswire [link TBD](https://campuswire.com/c/GEAA805EF/feed/).
-* Please add the [Class calendar](https://calendar.google.com/calendar/u/0?cid=Y18wYWE0NWZhNzZlNjM1MTlhYzdmMmE4ODllNTE2ZTA4NmMwZTNiYzA4OWQ1ZGI2MDMzZDViZWNiMmViNGYwMzk0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to your calendar to keep track of class events (lecture, office hours, recitation, etc.).
+* Please add the [Class calendar](https://calendar.google.com/calendar/u/0?cid=Y18yN2RlM2I1NzRkZjQ1NDYwMTQxNTRlMWJjZGE0NzZmMzM4MWZkODdiNmE1MjMzMzFmMTdmYTgyOTY4NWQ2Mjk2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to your calendar to keep track of class events (lecture, office hours, recitation, etc.).
 
 ### Grading and Assignments
 * Assignments (30%) + Final Project (60%) + Class Participation (10%)
