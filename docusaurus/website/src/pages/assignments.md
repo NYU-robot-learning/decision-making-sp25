@@ -1,7 +1,7 @@
 ---
 title: Assignments
 ---
-There will be four homework assignments posted to the [class Campuswire](https://campuswire.com/p/GA305686D). They must be submitted online (platform TBD) and there will be no extensions. All the answers must be typeset using either LaTeX or Microsoft Word and submitted as a pdf file. Handwritten answers will not be accepted. Each homework will include one or more programming assignments. Assignment 0 is solely to check pre-requisites. No grade will be assigned to this.
+There will be five homework assignments posted to the [class Campuswire](https://campuswire.com/p/GA305686D). All assignments must be submitted via Google Forms via the submission links below.
 
 ---
 
@@ -9,13 +9,13 @@ There will be four homework assignments posted to the [class Campuswire](https:/
 
 The assignments will be released on Campuswire.
 
-| Assignment | Release Date | Due Date | Link |
-| --- | --- | --- | --- |
-| Assignment 0: Pre-requisites | January 24 | February 7 | TBD |
-| Assignment 1: NN, BC, multimodal BC | February 7 | February 21 | TBD |
-| Assignment 2: Dagger, reward-weighted regression | Februrary 21 | March 7 | TBD |
-| Assignment 3: Off-Policy Reinforcement Learning | March 7 | March 21 | TBD | 
-| Assignment 4: PPO | March 21 | April 4 | TBD |
+| Assignment | Release Date | Due Date | Link | Submission Link
+| --- | --- | --- | --- | --- |
+| Assignment 0: Pre-requisites | January 24 | February 7 | [Link](https://drive.google.com/drive/folders/1oMUARsBacKRWnEWgWqCDGhuvXcGGJIkF?usp=sharing) | [Submit](https://forms.gle/66KS6H2gT6iWs63x8) |
+| Assignment 1: NN, BC, multimodal BC | February 7 | February 21 | TBD | TBD |
+| Assignment 2: Dagger, reward-weighted regression | Februrary 21 | March 7 | TBD | TBD |
+| Assignment 3: Off-Policy Reinforcement Learning | March 7 | March 21 | TBD |  TBD |
+| Assignment 4: PPO | March 21 | April 4 | TBD | TBD |
 <!-- [TBD](google.com) -->
 
 <!-- ## Assignment Environment and Installation Instructions
