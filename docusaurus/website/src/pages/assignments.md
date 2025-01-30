@@ -1,7 +1,7 @@
 ---
 title: Assignments
 ---
-There will be five homework assignments posted to the [class Campuswire](https://campuswire.com/p/GA305686D). All assignments must be submitted via Google Forms via the submission links below.
+There will be four homework assignments posted to the [class Campuswire](https://campuswire.com/p/GA305686D). All assignments must be submitted via Google Forms via the submission links below. Assignment 0 is solely to check pre-requisites. No grade will be assigned to this.
 
 ---
 

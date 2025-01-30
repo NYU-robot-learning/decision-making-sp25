@@ -50,7 +50,7 @@ We highly recommend the following e-book: **Sutton and Barto. _[Reinforcement Le
 
 ### Office Hours
 * Lerrel: TBD
-* Gaoyue / Nikhil: Thu 5-6 PM
+* Gaoyue / Nikhil: Thu 4:30 - 5:30 PM, 60FifthAve 527
 
 ## Remarks
 * A student in this course is expected to act professionally. Please also follow the GSAS regulations on academic integrity found here: https://gsas.nyu.edu/about-gsas/policies-and-procedures/gsas-statement-on-academic-integrity.html
