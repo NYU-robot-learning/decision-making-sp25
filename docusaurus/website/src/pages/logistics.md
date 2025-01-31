@@ -37,7 +37,7 @@ Please contact Rosemary Amico (amico@cs.nyu.edu).
 
 ### Final Project
 * Project proposals (1 page) will be due on 2/23.
-* Maximum (and recommended) team size is 2.
+* Maximum (and recommended) team size is 4.
 * Final presentations of all projects will take place on 5/2/2025.
 
 ### Course Textbook
