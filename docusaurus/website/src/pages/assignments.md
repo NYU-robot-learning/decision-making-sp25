@@ -28,9 +28,3 @@ Collaboration is encouraged, but the work you submit for assignments is expected
 Each student is allotted up to 3 late days per assignment. Late days are counted in full-day increments (24 hours) starting immediately after the deadline. Each late day incurs a 15% penalty from the maximum possible score for the assignment. Thus, within 1 late day the maximum score is 85%, within 2 late days the maximum score is 60%, and within 3 late days the maximum score is 45%. Assignments turned in more than 3 days late will receive a score of 0% to avoid unfair burdens on course graders.
 
 If you face extraordinary circumstances (e.g., illness, emergencies), please reach out to the instructor as soon as possible with documentation acceptable by the Dean's Office. These cases will be considered individually.
-
-
-## Final Project
-* Project proposals (1 page) will be due on 2/21 (TBD).
-* Maximum (and recommended) team size is 2.
-* Final presentations of all projects will take place on 5/2.
