@@ -36,7 +36,7 @@ Please contact Rosemary Amico (amico@cs.nyu.edu).
 <!-- * To complete the assignemnt, you would need GPU access. Use [Greene](https://sites.google.com/a/nyu.edu/nyu-hpc/systems/greene-cluster) if you need access to one. -->
 
 ### Final Project
-* Project proposals (1 page) will be due on 2/23. Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSdsZ7ykn2YCZKYSvj_QwxKkGfKJD0cKQL9TwNiTX3Nju9M86Q/viewform?usp=sharing).
+* Project proposals (1 page) will be due on 2/28. Submit [here](https://docs.google.com/forms/d/e/1FAIpQLSdsZ7ykn2YCZKYSvj_QwxKkGfKJD0cKQL9TwNiTX3Nju9M86Q/viewform?usp=sharing).
 * Maximum (and recommended) team size is 4.
 * Final presentations of all projects will take place on 5/2/2025.
 
