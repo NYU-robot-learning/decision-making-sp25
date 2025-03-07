@@ -14,8 +14,8 @@ The assignments will be released on Campuswire.
 | Assignment 0: Pre-requisites | January 24 | February 7 | [Link](https://drive.google.com/drive/folders/1oMUARsBacKRWnEWgWqCDGhuvXcGGJIkF?usp=sharing) | [Submit](https://forms.gle/66KS6H2gT6iWs63x8) |
 | Assignment 1: NN, BC, multimodal BC | February 7 | February 21 | [Link](https://drive.google.com/drive/folders/1Nqrg4axWwuaxe-0gF0nuaFUy0RbF6d9G?usp=drive_link) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdulkvfpKBjyFIuvmUS4rO0sTYSbbXunNUH5djC-E2FbsI8aA/viewform?usp=sharing) |
 | Assignment 2: Dagger, reward-weighted regression | Februrary 21 | March 7 | [Link](https://drive.google.com/drive/folders/1ksnIVmEeCrb5ygu55n0gLww2UPInwC9m?usp=sharing) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSe8dGL3Qzuq2rLb8s5gNejsErZ6gymRObGqpGyTFynj-J43aw/viewform?usp=sharing) |
-| Assignment 3: Off-Policy Reinforcement Learning | March 7 | March 21 | TBD |  TBD |
-| Assignment 4: PPO | March 21 | April 4 | TBD | TBD |
+| Assignment 3: Off-policy reinforcement learning | March 7 | March 21 | [Link](https://drive.google.com/drive/folders/1Mj7gdfSDqOhDLVrMG6dZQWZhtzeHw8u_?usp=sharing) |  TBD |
+| Assignment 4: On-policy reinforcement learning | March 21 | April 4 | TBD | TBD |
 <!-- [TBD](google.com) -->
 
 <!-- ## Assignment Environment and Installation Instructions
